@@ -15,7 +15,7 @@ import tcp@0.0.2
 tcp_server echo hello world
 ```
 
-And interact with it using `netcat` / `telnet`:
+And interact with it using `netcat`, or `telnet`:
 
 ```
 $ netcat localhost 3000
